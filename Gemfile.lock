@@ -98,6 +98,7 @@ PLATFORMS
 
 DEPENDENCIES
   bundler (>= 1.12)
+  jekyll-sass-converter (~> 1.0)
   jekyll-sleek!
   kramdown-parser-gfm
   rake (~> 10.0)
